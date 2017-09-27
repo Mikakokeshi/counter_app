@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Welcome name="Jamie"/>
+        <Welcome name="Mika"/>
         <Today day="Wednesday"/>
         <Counter />
       </div>
